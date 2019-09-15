@@ -3,8 +3,8 @@
 ## Description
 Magento 2 test
 
-http://localhost/tasklist/tasks - task list
+site.url/tasklist/tasks - task list
 
-http://localhost/tasklist/tasks/delete?id=3 - delete task
+site.url/tasklist/tasks/delete?id=3 - delete task
 
-http://localhost/tasklist/tasks/newtask - add task
+site.url/tasklist/tasks/newtask - add task
